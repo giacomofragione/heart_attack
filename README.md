@@ -1,6 +1,6 @@
 # Classifying Heart Disease.
 
-This repository presents a machine learning model to classify the possibility of heart attack. The models used are Decision Tree, Random Forest, and XGBOOST.
+This repository presents a machine learning model to classify the possibility of heart disease. The models used are Decision Tree, Random Forest, and XGBOOST.
 
 ### Code
 
